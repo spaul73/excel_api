@@ -19,5 +19,5 @@ Send GET request to **"/inovices"**
 
 **Get all vendors in json**
 
-Send GET request to **"/vendros"**
+Send GET request to **"/vendors"**
 ![Postman example](https://i.imgur.com/N8vfta2.png)
