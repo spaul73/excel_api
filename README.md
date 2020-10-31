@@ -1,6 +1,8 @@
 # excel_api
 *api to upload excel files and store data in DB, also to retrieve data in json*
 
+**Run Locally** node src/server.js
+
 [Deployment Link](https://dark-alien-79782.herokuapp.com/)
 
 # Usage
